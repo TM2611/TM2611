@@ -1,22 +1,8 @@
-<style>
-
-.tech-stack-container{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.tech-stack{
-  display: flex;
-  margin: auto;
-}
-</style>
-
 <!-- 
 ### About Me 
 - Website ?
   
 -->
-
 ### ⚡Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UP938751&count_private=true&show_icons=true&hide=contribs,issues&theme=github_dark)]()
 
