@@ -9,7 +9,7 @@
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=UP938751&theme=github_dark&layout=compact)](https://github.com/)
 
 ## This week:
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TM2611&theme=github_dark&layout=compact&hide=idea_module,gitignore+file)](https://wakatime.com/dashboard)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TM2611&theme=github_dark&layout=compact&hide=idea_module,gitignore+file,json)](https://wakatime.com/dashboard)
 
 <h3> 🛠 &nbsp;Technologies & Tools</h3>
 
