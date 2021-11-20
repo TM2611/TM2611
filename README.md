@@ -6,8 +6,9 @@
 ### ⚡ Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=UP938751&count_private=true&show_icons=true&hide=contribs,issues&theme=github_dark)](https://github.com/)
 
+<!-- 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=UP938751&theme=github_dark&layout=compact)](https://github.com/)
-
+-->
 ## This week:
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TM2611&theme=github_dark&layout=compact&hide=idea_module,gitignore+file,json)](https://wakatime.com/dashboard)
 
