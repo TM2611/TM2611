@@ -9,8 +9,8 @@
 <!-- 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=TM2611&theme=github_dark&layout=compact)](https://github.com/)
 -->
-## Last 7 days:
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TM2611&theme=github_dark&layout=compact&hide=idea_module,gitignore+file,json,git+config,text)](https://wakatime.com/dashboard)
+<!-- ## Last 7 days:
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TM2611)](https://wakatime.com/dashboard) -->
 
 <h3> 🛠 &nbsp;Technologies & Tools</h3>
 
