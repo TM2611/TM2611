@@ -12,7 +12,7 @@
 <!-- ## Last 7 days:
 [![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TM2611)](https://wakatime.com/dashboard) -->
 
-<h3> 🛠 &nbsp;Technologies & Tools</h3>
+<!-- <h3> 🛠 &nbsp;Technologies & Tools</h3>
 
 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -32,4 +32,4 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellij-idea)
 
-<br/>
+<br/> -->
