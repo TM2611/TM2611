@@ -4,7 +4,7 @@
   
 -->
 ### ⚡ Stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TM2611&count_private=true&show_icons=true&hide=contribs,issues&theme=github_dark)](https://github.com/)
+[![My GitHub stats](./profile/stats.svg)](https://github.com/TM2611)
 
 <!-- 
 [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=TM2611&theme=github_dark&layout=compact)](https://github.com/)
